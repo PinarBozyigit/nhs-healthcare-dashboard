@@ -23,8 +23,7 @@ It includes information about service activity, patient demand, and healthcare u
 
 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
-
+[![Dashboard](images/dashboard_preview.png)](https://public.tableau.com/app/profile/pinar.bozyigit/viz/Nhs1/Dashboard1?publish=yes)
 
 Key Insights
 
