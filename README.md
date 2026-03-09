@@ -25,7 +25,6 @@ Dashboard Preview
 <a href="https://public.tableau.com/app/profile/pinar.bozyigit/viz/Nhs1/Dashboard1?publish=yes" target="_blank">
   <img src="images/dashboard_preview.png" alt="NHS Dashboard Preview">
 </a>
-[![Dashboard](images/dashboard_preview.png)]()
 
 Key Insights
 
