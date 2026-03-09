@@ -22,6 +22,7 @@ The dataset contains healthcare service data related to the NHS.
 It includes information about service activity, patient demand, and healthcare usage trends.
 
 Dashboard Preview
+
 <a href="https://public.tableau.com/app/profile/pinar.bozyigit/viz/Nhs1/Dashboard1?publish=yes" target="_blank">
   <img src="images/dashboard_preview.png" alt="NHS Dashboard Preview">
 </a>
