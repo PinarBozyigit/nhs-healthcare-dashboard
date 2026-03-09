@@ -8,34 +8,32 @@ Using Tableau, the data is transformed into an interactive dashboard that helps 
 
 The project demonstrates how data visualization can support better understanding of healthcare system activity and operational pressures.
 
-Tools Used
+## Problem Statement
+How can NHS patient activity trends be visualized to identify high-demand services and support resource planning?
 
-Tableau
+## Tools & Methods
+- Tableau for visualization
+- CSV dataset for data input
+- Data cleaning and exploration in Excel 
 
-Data Visualization
-
-CSV Dataset
-
-Dataset
-
+## Dataset
+The dataset used in this project is publicly available from the UK NHS [[link to dataset]](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/rtt-data-2025-26/).
 The dataset contains healthcare service data related to the NHS.
 It includes information about service activity, patient demand, and healthcare usage trends.
 
-Dashboard Preview
+## Dashboard Preview
 
 <a href="https://public.tableau.com/app/profile/pinar.bozyigit/viz/Nhs1/Dashboard1?publish=yes" target="_blank">
   <img src="images/dashboard_preview.png" alt="NHS Dashboard Preview">
 </a>
 
-Key Insights
+## Key Insights
+- Patient activity peaks during winter months
+- Certain services consistently show high demand
+- Regional differences highlight potential resource allocation needs
 
-Identification of trends in healthcare service usage
 
-Comparison of healthcare activity across categories
-
-Detection of high-demand service areas
-
-Repository Structure
+## Repository Structure
 
 data/ → dataset used for the analysis
 
@@ -43,7 +41,8 @@ dashboard/ → Tableau packaged workbook (.twbx)
 
 images/ → dashboard screenshots
 
-Author
+## Author
 
 Data visualization project created as part of a data analytics learning portfolio.
+
 
