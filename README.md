@@ -23,7 +23,7 @@ It includes information about service activity, patient demand, and healthcare u
 
 Dashboard Preview
 
-
+![Dashboard](images/dashboard_preview.png)
 
 
 Key Insights
@@ -45,4 +45,4 @@ images/ → dashboard screenshots
 Author
 
 Data visualization project created as part of a data analytics learning portfolio.
-![Dashboard](images/dashboard_preview.png)
+
